@@ -1,0 +1,6 @@
+imutils==0.5.4
+numpy==1.24.3
+opencv_python==4.6.0.66
+Pillow==10.0.1
+tensorflow==2.13.0
+tensorflow_intel==2.13.0
