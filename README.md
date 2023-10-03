@@ -1,1 +1,4 @@
 # Helmet-and-Number-Plate-Detection-and-Recognition
+Motorcycle Accidents have been rapidly growing throughout the years in many countries. The helmet is the main safety equipment of motorcyclists. There was need to propose an automated system that monitors motorcycles and detects the persons wearing helmet or not and a system to detect number plates. 
+
+This system proposes an automated system for detecting motorcyclists who do not wear a helmet and a system for retrieving motorcycle number plates.So, our model detects the helmet of the rider. If the two-wheeler rider does not wear the helmet, it detects the number plate of the vehicle.To detect the objects, this deep learning algorithm uses CNN (Convolutional Neural Network) that recognizes specific objects in videos, live images or feeds.
