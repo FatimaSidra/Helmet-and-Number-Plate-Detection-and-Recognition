@@ -53,6 +53,9 @@ This project is a Streamlit-based application for detecting helmets, bikes, and 
   ![ss](https://github.com/FatimaSidra/Helmet-and-Number-Plate-Detection-and-Recognition/assets/112679516/dc00805f-2ce6-457b-b152-5b97f4b497bd)
   ![ss2](https://github.com/FatimaSidra/Helmet-and-Number-Plate-Detection-and-Recognition/assets/112679516/3254988d-1fd7-4cba-a53e-bd3efea3ce12)
   ![ss3](https://github.com/FatimaSidra/Helmet-and-Number-Plate-Detection-and-Recognition/assets/112679516/a98592c1-06e0-4933-ac5d-5fb4110a7190)
+
+# Sample Output video
+    https://drive.google.com/file/d/1L4BRoO4WndLfTzfy4bOi-Oa7RpTWwOsU/view?usp=sharing
   
 # Acknowledgements
 * This project uses YOLOv3 for object detection. You can find more information about YOLOv3 here.
