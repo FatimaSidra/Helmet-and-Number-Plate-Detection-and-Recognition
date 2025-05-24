@@ -47,7 +47,7 @@ This project is a Streamlit-based application for detecting helmets, bikes, and 
 * source.py: The main Streamlit app code for helmet, bike, and number plate detection and recognition.
 * requirements.txt: A list of required Python packages and their versions.
 * yolov3-custom_7000.weights: YOLOv3 custom-trained weights for object detection.
-       `https://drive.google.com/file/d/17DWQ1WfYHxYD_wab2OQybHwRaDDGN54K/view?usp=drive_link`
+       `https://drive.google.com/file/d/17DWQ1WfYHxYD_wab2OQybHwRaDDGN54K/view?usp=sharing`
 * yolov3-custom.cfg: YOLOv3 custom model configuration file.
 * helmet-nonhelmet_cnn.h5: Helmet detection CNN model weights.
   # ScreenShots
